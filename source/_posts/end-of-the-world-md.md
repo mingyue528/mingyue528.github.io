@@ -1,7 +1,8 @@
 ---
-title: the end of the world
+title: "[明月无风]世界之终结"
 date: 2020-05-07 14:34:51
 tags:
+    - 随笔
 ---
 
 # 读书心得 -- 地球毁灭记
