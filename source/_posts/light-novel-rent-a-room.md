@@ -1,5 +1,5 @@
 ---
-title: "[明月无风]微小说之租房子"
+title: "[明月无风][stay away today]租房子"
 date: 2020-08-04 14:34:12
 tags:
     - 小说
